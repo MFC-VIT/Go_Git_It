@@ -4,7 +4,7 @@
 <!-- TABLE OF CONTENTS -->
 
 Mozilla Firefox Club's hacktober repository , you're welcome to get started in the world of open sourcing , contributing and writing good code.
-## Table of Contents
+# Table of Contents
 
 * [Getting Started](#getting-started)
 * [Built With](#built-with)
